@@ -8,6 +8,6 @@ __italic__
 
 **_italic_bold_**
 
--list
+- list
 
--[] cheak1
+- [] cheak1
